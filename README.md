@@ -9,4 +9,4 @@
 ## supplementary:
 [s5-s.py](https://github.com/sweetBugs/kbrv-method/blob/master/s5-s.py), [s5-ss.py](https://github.com/sweetBugs/kbrv-method/blob/master/s5-ss.py)
 
-### [GSE79044.zip](https://github.com/sweetBugs/kbrv-method/blob/master/GSE79044.zip) is processed exon-level RNA-Seq data
+### [GSE79044.zip](https://github.com/sweetBugs/kbrv-method/blob/master/GSE79044.zip) is processed exon-level RNA-Seq data. The raw RNA-Seq data are available on https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE79044
