@@ -106,7 +106,7 @@ plt.plot(xs, ys2, lw=5, marker='o', markersize=13, label='alpha=0.3')
 plt.plot(xs, ys3, lw=5, marker='+', markersize=15, label='alpha=0.5')
 plt.plot(xs, ys4, lw=5, marker='*', markersize=15, label='alpha=0.7')
 plt.plot(xs, ys5, lw=5, ls='--', label='alpha=1')
-# ax.set_title('RV2 under nonlinear situation yij = xij^2\n', fontsize=30)
+
 plt.xticks(xs, np.linspace(100, 10, 10))
 plt.tick_params(axis='both', length=8, width=2, labelsize=20)
 font1 = {'weight' : 'normal', 'size' : 35}
@@ -136,7 +136,7 @@ plt.plot(xs, ys2, lw=5, marker='o', markersize=13, label='alpha=0.3')
 plt.plot(xs, ys3, lw=5, marker='+', markersize=15, label='alpha=0.5')
 plt.plot(xs, ys4, lw=5, marker='*', markersize=15, label='alpha=0.7')
 plt.plot(xs, ys5, lw=5, ls='--', label='alpha=1')
-# ax.set_title('RV2 under nonlinear situation yij = xij^2\n', fontsize=30)
+
 plt.xticks(xs, np.linspace(100, 10, 10))
 plt.tick_params(axis='both', length=8, width=2, labelsize=20)
 font1 = {'weight' : 'normal', 'size' : 35}
