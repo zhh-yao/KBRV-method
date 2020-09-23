@@ -7,3 +7,4 @@
 [r1-1](https://github.com/sweetBugs/kbrv-method/blob/master/r1-1.py), [r1-2](https://github.com/sweetBugs/kbrv-method/blob/master/r1-2.py), [r2-data_prepare](https://github.com/sweetBugs/kbrv-method/blob/master/r2-data_prepare.py), [r2-corr_calculate](https://github.com/sweetBugs/kbrv-method/blob/master/r2-corr_calculate.py) 
 
 ## supplementary:
+[s5-s.py](https://github.com/sweetBugs/kbrv-method/blob/master/s5-s.py), [s5-ss.py](https://github.com/sweetBugs/kbrv-method/blob/master/s5-ss.py)
