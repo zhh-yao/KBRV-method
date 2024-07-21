@@ -6,7 +6,7 @@
 ## Real data study: 
 [r1-1](https://github.com/sweetBugs/kbrv-method/blob/master/r1-1.py), [r1-2](https://github.com/sweetBugs/kbrv-method/blob/master/r1-2.py), [r2-data_prepare](https://github.com/sweetBugs/kbrv-method/blob/master/r2-data_prepare.py), [r2-corr_calculate](https://github.com/sweetBugs/kbrv-method/blob/master/r2-corr_calculate.py) 
 
-## Supplementary:
+## Supplementary code and data:
 [s5-s.py](https://github.com/sweetBugs/kbrv-method/blob/master/s5-s.py), [s5-ss.py](https://github.com/sweetBugs/kbrv-method/blob/master/s5-ss.py)
 
-### [GSE79044.zip](https://github.com/sweetBugs/kbrv-method/blob/master/GSE79044.zip) is processed exon-level RNA-Seq data. The raw RNA-Seq data are available on https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE79044
+[GSE79044.zip](https://github.com/sweetBugs/kbrv-method/blob/master/GSE79044.zip) is processed exon-level RNA-Seq data. The raw RNA-Seq data are available on [NCBI](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE79044)
