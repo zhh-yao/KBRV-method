@@ -12,4 +12,4 @@ Kernel-Based RV (KBRV) coefficient is a method to evaluate the correlation betwe
 
 **data**: Processed exon-level RNA-Seq data (GSE79044) can be downloaded here. The raw RNA-Seq data are available on [NCBI](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE79044)
 
-**Citation**: Zhihao Yao, Jing Zhang, and Xiufen Zou. [A general index for linear and nonlinear correlations for high dimensional genomic data](https://link.springer.com/article/10.1186/s12864-020-07246-x). BMC genomics 21 (2020): 1-14.
+**Citation**: Zhihao Yao, Jing Zhang, and Xiufen Zou. [A general index for linear and nonlinear correlations for high dimensional genomic data](https://link.springer.com/article/10.1186/s12864-020-07246-x). *BMC genomics* 21 (2020): 1-14.
